@@ -1,0 +1,31 @@
+.bg_container_appstore {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+.min_container_appstore {
+  height: 1000px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.inputsearch {
+  width: 400px;
+  background-color: transparent;
+  border-color: #7b8794;
+}
+.tab_container_appstore {
+  display: flex;
+  color: #7b8794;
+  align-self: center;
+  border-color: transparent;
+}
+.tab_item_the_catergory {
+  flex-wrap: wrap;
+}
